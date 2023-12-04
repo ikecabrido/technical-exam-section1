@@ -24,9 +24,6 @@ body {
   margin-top: 0;
   margin-bottom: 20px;
 }
-#container input {
-  width: 100%;
-}
 #timeline {
   display: flex;
   justify-content: space-between;
@@ -38,6 +35,7 @@ body {
   font-style: none;
 }
 #seekbar {
+  width: 100%;
   margin-bottom: 20px;
   background: purple;
 }
